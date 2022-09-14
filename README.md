@@ -26,7 +26,7 @@ source venv/bin/activate # для Linux
 ```
 
 ``` bash
-source venv/bin/activate # для Windows
+source venv/scripts/activate # для Windows
 ```
 
 ``` bash
